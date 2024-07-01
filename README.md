@@ -17,3 +17,5 @@ Moving forward, adjusting to GitHub's default settings improved my project integ
   git config --global init.defaultBranch main
 
 Here you go. From now on, the branch names in the local and remote repository will be  the same, preventing push and pull going to a different repository than expected.
+
+[Git Branch default Naming: main vs master](https://dev.to/coderpena/git-branch-default-naming-main-vs-master-2lnc)
