@@ -16,4 +16,4 @@ Moving forward, adjusting to GitHub's default settings improved my project integ
 3. In addiction, and because after the version git 2.28 we can set a global config with the default branch name allowing now and whenever we create a new git local repo using any default branch name, I run the following line command:
   git config --global init.defaultBranch main
 
-Here you go. From now on, the branch names in the local and remote repository are the same, preventing pushes and pulls from going to a different repository than expected.
+Here you go. From now on, the branch names in the local and remote repository will be  the same, preventing push and pull going to a different repository than expected.
