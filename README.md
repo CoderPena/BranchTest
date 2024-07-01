@@ -1,4 +1,4 @@
-###Git Branch default Naming: main vs master
+# Git Branch default Naming: main vs master
 
 Since October 1, 2020, GitHub has set the default branch to "main" for new repositories, while many existing repositories still use "master". This change is part of an effort to use more inclusive language and avoid terms with negative historical connotations, opting for a more neutral term. "Main" is considered a better choice because it is short, easy to remember, and translates well across languages.
 On the other hand, Git, the underlying version control system, is an open-source project maintained by a diverse community. Changes in Git require consensus from contributors and users to ensure broad agreement and compatibility across various workflows and tools. As of now, the default branch name in Git remains "master" because changing it involves a complex and slower process compared to a single platform like GitHub. While discussions about changing the default branch name in Git have occurred, reaching a consensus in open-source projects takes time.
